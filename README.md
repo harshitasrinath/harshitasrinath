@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://github.com/harshitasrinath/harshitasrinath.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitasrinath&repo=harshitasrinath.github.io&title_color=000&icon_color=79ff97&text_color=000&bg_color=ffffff" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitasrinath&repo=harshitasrinath.github.io&title_color=0366d6&icon_color=0366d6&text_color=0366d6&bg_color=ffffff" />
 </a>
 
 
